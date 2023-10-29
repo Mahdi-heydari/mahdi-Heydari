@@ -9,6 +9,10 @@
 
 - 📫 How to reach me **mahdi.funlife@gmail.com**
 
+- 📄 Know about my experiences [I learned JavaScript when I was 13 years old, and when I was 15 years old, I learned react JS, and now, at the age of 17, I am looking for a suitable job and suitable experiences.](I learned JavaScript when I was 13 years old, and when I was 15 years old, I learned react JS, and now, at the age of 17, I am looking for a suitable job and suitable experiences.)
+
+- ⚡ Fun fact **High school course with programming is not a good combination at all😬**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mehdi-heydarii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mehdi-heydarii/" height="30" width="40" /></a>
